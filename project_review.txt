@@ -1,7 +1,7 @@
 Project Branch Review – Fall 2025
 Prepared by Kenny Madrigal, Project & Workshop Chair
 
-1 / 22
+1 / 30
 
 Table Of Contents | IEEE-UH Projects & Workshops Review
 1. Introduction
@@ -9,73 +9,68 @@ Prepared by Kenny Madrigal, Project & Workshop Chair
 2.1 Co-Chair
 2.2 Projects & Workshops (P&W)
 Committee
+A. Onboarding Process
+B. Members’ Responsibilities
+C. Subteam Breakdown
 2.3 IEEE@UH and Robotics@UH
 2.4 Collaboration Framework with Other
 Orgs
 3. Project Framework
 3.1 Project Categories
 
-4.3 Role of P&W Committee
-4.4 Fall 2025 Workshops
-4.5 Spring 2026 Workshops
-4.6 Workshop Wishlist
-A. HAM Radio w/ AIAA
-B. Outreach Workshops (K-12 and
-External Programs)
-5. Educational Resources and Outreach
-
-A. Individual Projects
-
-5.1 Page on IEEE@UH Website
-
-B. Collaborative Projects
-
-5.2 Video Content
-
-C. Continuous Projects
-3.2 Project Expectations
-
-A. Workshop Recordings
-B. Formal Tutorials
-
-A. Semester Timeline
-
-C. Fundamental Video Series
-
-B. Onboarding
-
-D. Project Identity/”Hero” Videos
-
-C. Documentation
-
-E. Inspo Posts (“Build With Me”
-Videos)
-
-D. Subteam Leadership
-3.3 Events
-A. Competitions
-B. IEEE Project Showcase
-3.4 Note on Personal Projects
-4. Workshops Overview
-4.1 Purpose of Workshops in IEEE@UH
-4.2 Workshop Criteria
 A. “Is This a Good Fit for IEEE?”
 B. When to Make a Video VS When
 to Host a Workshops
-
-2 / 22
-
 C. Collaboration Criteria for Joint
 Workshops
+4.3 Fall 2025 Workshops
+4.4 Spring 2026 Workshops
+4.5 Workshop Wishlist
+5. Educational Resources and Outreach
+5.1 Page on IEEE@UH Website
+5.2 Video Content
+A. Workshop Recordings
 
+A. Individual Projects
+
+B. Formal Tutorials
+
+B. Collaborative Projects
+
+C. Fundamental Video Series
+
+C. Continuous Projects
+
+D. Project Identity/”Hero” Videos
+
+3.2 Project Expectations
+A. Semester Timeline
+B. Onboarding
+C. Documentation
+D. Subteam Leadership
+3.3 Project Timelines
+3.4 Project Events
+A. Competitions
+B. IEEE Project Showcase
+3.5 Note on Personal Projects
+4. Workshops Overview
+4.1 Purpose of Workshops in IEEE@UH
+
+2 / 30
+
+4.2 Workshop Criteria
+
+E. Inspo Posts (“Build With Me”
+Videos)
 5.3 Branding
 6. Reflection and Lessons Learned
 7. Improvements and Future Vision
 7.1 Integration of Workshops into the
 Project Pipeline
 7.2 Expanding Project Domains
-7.3 Operational Improvements and
-Infrastructure
+7.3 Cross-Org Cohesion and
+Communication
+7.4 Infrastructure Chair and Branch
 8. Closing Remarks
 A. Immediate Next Steps
 
@@ -94,7 +89,7 @@ IEEE@UH’s technical culture, where curiosity becomes skill, and skill becomes 
 Also… yeah I used AI. IT WRITES REALLY FAST and more clearly than I could ever hope to. I
 just wanted to share my ideas ASAP. Ofc I screened it after.
 
-3 / 22
+3 / 30
 
 2. Organizational Structure
 2.1 Co-Chair
@@ -108,40 +103,78 @@ while still working towards goals that have already been established.
 The co-chair will have full freedom to propose new projects or reshape existing systems, provided
 that documentation and transparency remain intact.
 
-2.2 Role of the Projects & Workshops (P&W) Committee
-The P&W Committee is made of selected members that undergo the application process to facilitate
-all of our technical endeavors. We coordinate workshops, manage active projects, and ensure every
+2.2 Projects & Workshops (P&W) Committee
+The P&W Committee is made of selected members that undergo the onboarding process to facilitate
+all of our technical endeavors. We facilitate workshops, manage active projects, and ensure every
 member has an accessible path from beginner to builder.
-Subteam Breakdown and Responsibilities:
-• Workshop Team: Program assistants for technical workshops, and maintains the shared
-BOM and reimbursement sheets. (More information in Section 4.3 | Role of P&W
-Commitee)
-• Collaborative and Continuous Project Teams: Oversee the success of collaborative and
-continuous projects, contribute to documentation on GitHub, and act as mentors for newer
-members.
-• Individual Project Teams: Develop personal competition robots to showcase at the IEEE
-Project Showcase.
-• Operations & Logistics: Maintains the IEEE Lounge Project Inventory, organizes
-materials, and ensures lab and storage spaces remain accessible and safe.
-Every committee member is empowered to propose workshops and join sub-teams with the chair
-providing resource support, mentorship, and oversight. Communication remains casual but
-consistent: progress updates, coordination, and discussion happen primarily through Discord (#pwchat and respective threads in the #pw-forum).
 Starting next semester, we will host weekly P&W committee meetings. These are face-to-face,
-casual meetups for members to work on personal or committee projects. The time for these
+casual meetups for all IEEE members to work on personal or committee projects. The time for these
 meetings will be selected via the onboarding process.
 
-4 / 22
+Onboarding Process
+Every semester, IEEE@UH will conduct a structured onboarding process for all members involved
+in the Projects & Workshops Committee. The purpose of this process is to organize teams
+efficiently, set clear expectations, and align meeting schedules across all active projects.
+1.
+The onboarding process begins with a semester kickoff form distributed to both returning
+and new members. This form collects basic information such as preferred meeting times, project
+interests, technical experience, and availability. Using this data, the Project Chair and Co-Chair
+will determine consistent meeting times for each project team and for the general P&W Committee
+meetings.
+2.
+For new members, the form doubles as a project-matching tool. Students who express
+interest in specific areas—such as robotics, embedded systems, or circuit design—will be directed
+toward projects that fit their goals and current skill levels. Returning members will have the
+opportunity to stay on their existing project teams or request reassignment if they want to explore
+something new.
+This system creates a clean onboarding pipeline where no one “falls through the cracks,” and where
+every member is attached to a tangible project from the start of the semester. It also helps balance
+4 / 30
 
-More detailed definitions of project categories can be found in Section 3.1 | Project Categories.
-Information on sub-team expectations, onboarding, and leadership can be found in Section 3.2 |
-Project Expectations.
+team sizes, reduce scheduling conflicts, and ensure that new projects don’t begin without sufficient
+staffing.
+Check out the form at this link.
 
-2.3 Relationship Between IEEE@UH and Robotics@UH
+Members’ Responsibilities
+• Communication: All coordination happens casually in #pw-chat on Discord—if you start a
+task, just drop a quick message.
+• Documentation: All P&W materials will be uploaded to a central GitHub repository after I
+initialize the folder structure. This ensures future officers and members can easily find,
+reuse, and improve past resources.
+Workshop-Specific Responsibilities
+• Trial Runs: Committee members attend rehearsal sessions to learn the material and practice
+troubleshooting.
+• Initiative: Any P&W Member may propose their own workshops using committee
+resources. The Project Chairs help polish slides, prepare materials, and assist during
+delivery. To avoid fatigue, the committee emphasizes quality over quantity—a few wellrun workshops per month are better than a cluttered schedule.
+• Members may also assist with existing workshops—helping refine slides, update
+materials, or improve overall quality—provided they keep an active communication
+channel open with the project co-chairs. Authorization is quick and flexible; just ask
+before starting. Terms of approval are handled on a case-by-case basis.
+
+Subteam Breakdown and Responsibilities
+• Workshop Team: Act as on-site program assistants for technical workshops, and
+maintains both the presentation slides and shared BOM + reimbursement sheets. All
+workshop materials will be uploaded to a central GitHub repository after I initialize the
+folder structure. This ensures future officers and members can easily find, reuse, and
+improve past resources. For more on workshops, see Section 4.
+• Collaborative and Continuous Project Teams: Oversee the success of collaborative and
+continuous projects, contribute to documentation on GitHub, and act as mentors for newer
+members. These include our Chili Cook-off Initiative (CCO), Circuit Speed Dating (CSD),
+and Energy Techathon (ET). More information on these projects, including timelines, is
+detailed in Section 3.1 | Project Categories. Note that a committee member can only be in
+one P&W Project Team at a time. Information on sub-team expectations, onboarding, and
+leadership can be found in Section 3.2 | Project Expectations.
+
+5 / 30
+
+2.3 Relationship Between IEEE@UH and Robotics@UH
 IEEE@UH and Robotics@UH share overlapping interests but approach engineering from different
-angles. Robotics@UH focuses on mechanical integration and competition builds, often using
-pre-made kits or high-level system assembly that emphasizes mechanical design, control structure,
-and competition deliverables. Their projects span a wide range of disciplines—often led by
-mechanical engineers—and prioritize getting functional systems up and running.
+angles.
+Robotics@UH focuses on mechanical integration and interdisciplinary builds, employing a
+broad range of toolsets from kits to high-level system assembly that emphasize mechanical design
+and control structure. Their project deliverables prioritize getting functional systems up and
+running.
 IEEE@UH, on the other hand, specializes in the electrical and embedded foundations. Our
 projects exist to help students understand the electronics behind robotics: how to select components,
 design circuits, debug signals, and bridge theory with practical implementation.
@@ -151,27 +184,33 @@ and electronic design education. This distinction ensures that students can move
 both orgs: learning the fundamentals of electronics with IEEE@UH before applying that knowledge
 in Robotics@UH’s larger mechanical or competition-based projects. The long-term goal is to
 present ourselves as two arms of the same body: distinct, but mutually reinforcing.
+It is here that I want to include a note about Battlebots. I propose that, under IEEE@UH, Combat
+Robotics takes on a project structure similar to Micromouse. That is, members would benefit from
+our recorded resources (Section 5.2) detailing electronics fundamentals and selection, and design
+PCBs and communication protocols between the robot and the controller. For the continuation of
+this document, I will refer to Battlebots as a proposed project under IEEE@UH.
 
 2.4 Collaboration Framework with Other Orgs
 Beyond Robotics@UH, IEEE@UH will actively collaborate with other technical and cultural
-student organizations such as ASME, NSM, AIAA, Energy Coalition, MAES, SHPE, NSBE,
-SWE, and SASE. The intent is not to compete with these groups, but to invite them into our
-ecosystem. We will encourage these organizations to host or collaborate on workshops or
-committee meetings jointly with us, providing their members with hands-on technical experiences
-while giving IEEE@UH broader exposure and stronger attendance at our events. In exchange, their
-members gain access to advanced technical content, and we gain visibility and credibility as the
-campus hub for engineering skill-building.
+student organizations such as ASME, IEEE-NSM, AIAA, Energy Coalition, MAES, SHPE,
+NSBE, SWE, SASE, and many more. The intent is not to compete with these groups, but to invite
+them into our ecosystem. We will encourage these organizations to host or collaborate on
+workshops or committee meetings jointly with us, providing their members with hands-on
+technical experiences while giving IEEE@UH broader exposure and stronger attendance at our
+events. In exchange, their members gain access to advanced technical content, and we gain
+visibility and credibility as the campus hub for engineering skill-building.
 While some of these orgs occasionally host technical sessions themselves, IEEE@UH focuses on
 building strong electrical foundations, taught by and for students who want to learn how things truly
 work. But we also believe collaboration beats rivalry. When these orgs succeed technically, the
-entire UH engineering community rises with them, and IEEE@UH becomes the engine behind that
-growth.
-“Hosting With” vs. “Collaborating”
+entire UH engineering community rises with them.
+
+Organizations can submit a collaboration/cohost request form at this link.
+
+6 / 30
+
+“Hosting With” vs. “Collaborating”
 To clarify:
-
-5 / 22
-
-• Hosting With IEEE@UH means the partner organization’s name appears on promotional
+• Hosting With IEEE@UH means the partner organization’s name appears on promotional
 materials and their officers are present during the event, often as program assistants or cofacilitators. The workshop or project meeting is primarily organized and led by IEEE@UH,
 but the partnering org is encouraged to contribute in any way they can—such as booking
 rooms, providing refreshments, designing flyers, or helping manage attendance.
@@ -184,10 +223,9 @@ combining resources, knowledge, and creative direction.
 This distinction ensures clarity and balance: “hosting with” expands reach and engagement, while
 “collaborating” deepens technical relationships and creates shared ownership of new ideas. Both
 formats strengthen IEEE@UH’s network without diluting its mission or identity.
-For more information on workshop criteria, please see Collaboration Criteria under Section 4.2 |
-Workshop Criteria.
+For more information on workshop criteria, please see Section 4.2 | Workshop Criteria.
 
-6 / 22
+7 / 30
 
 3. Project Framework
 Individual projects focus on personal technical growth through self-directed building,
@@ -202,30 +240,37 @@ member or small team takes ownership of a complete build, from design to debuggi
 project reflects their personal interests and growth. These projects act as a low-pressure entry point
 into engineering, giving students the freedom to experiment, make mistakes, and develop hands-on
 intuition before moving into larger collaborative teams.
-Note: Both IEEE@UH and Robotics@UH run hands-on project meetings. I noticed two natural
-subtypes: Autonomous Projects (robots that drive themselves) and Controls Projects (piloted
-robots). To make our efforts cohesive, I recommend hosting paired Autonomous (Micromouse +
-Linefollower) sessions and paired Controls (Drones + Battlebots) sessions; two adjacent rooms,
-one meeting slot per session so we keep consistent branding as a merged entity while reducing
-internal competition for members. IEEE@UH emphasizes component selection and custom CAD,
-while Robotics@UH focuses on accessibility with low-cost kits. Both are valuable, and both should
-remain distinct but coordinated. Suggestions from Robotics@UH officers to further draw the line
-between IEEE and Robotics are welcomed.
+Note:
+Both IEEE@UH and Robotics@UH run hands-on project meetings. I noticed two natural subtypes:
+Autonomous Projects (robots that drive themselves) and Controls Projects (piloted robots).
+To make our efforts cohesive, I recommend using flexible, case-by-case pairings between related
+projects when their timelines or topics naturally overlap
+For example, early sessions for Micromouse, Line Follower, and Battlebots could share space to
+cover common fundamentals such as motors or power systems before diverging into their respective
+Autonomous and Controls sessions. Similarly, when Drones and Battlebots both cover brushless
+motors, piloting, or safety, joint sessions could make sense there too.
+This flexible pairing structure keeps projects moving at a similar pace, reduces stagnation, and
+improves overall cohesiveness,making it easier to onboard new members, explain how our projects
+relate, and plan joint workshops when shared concepts arise.
+Suggestions from Robotics@UH officers to realistically manage this idea are encouraged.
+Note 2:
+Project Chairs need to design an Individual Project Supplies Reimbursement Form for IEEE@UH
+Individual Projects. Co-chair, please ask me about this.
 Micromouse - IEEE@UH | Autonomous
 Started Fall 2023, inspired by Veritasium. Small teams (2-4) design a Micromouse—a maze-solving
 autonomous robot using sensors and algorithms to find the shortest path.
 Meetings: Fridays 4-6 PM in the communal ENGR lounge.
 Format: brief circuit overview → breadboarding/debugging/programming.
-Line Follower - Robotics@UH | Autonomous
+
+8 / 30
+
+Line Follower - Robotics@UH | Autonomous
 Started Fall 2025. Teams (3-4) build a sensor-driven robot that follows a line smoothly.
 Meetings: Wednesdays at Roy G. Cullen Building.
 Drones - Robotics@UH | Controls
 Started Fall 2025. Focus on assembling drone kits and earning pilot certification.
 Meetings: Cougar Village 1.
-
-7 / 22
-
-Battlebots - IEEE@UH | Controls
+Battlebots - IEEE@UH | Controls
 Currently paused (Fall 2025) with plans to relaunch Fall 2026.
 Goal: Design and assemble circuits, weapons, and a chassis for 1–3 lb battlebots.
 
@@ -237,32 +282,40 @@ design, embedded systems, or control logic. These projects demand coordination a
 disciplines, so clear documentation, leadership continuity, and weekly progress syncs are essential.
 Unlike individual projects, collaborative projects emphasize teamwork, long-term planning, and
 alignment with external competition or showcase deadlines.
-University Rover Challenge (URC)
+University Rover Challenge (URC) | Robotics@UH
 URC is a long-term, competition-based project where students design and construct a semiautonomous rover capable of navigating simulated Martian terrain. The team includes subgroups for
 mechanical design, drive systems, embedded control, and software development. This project
 emphasizes project management, interdisciplinary teamwork, and system integration at a nearprofessional level.
-Robot Arm Project
+Robot Arm Project | Robotics@UH
 The Robot Arm project focuses on developing a functional robotic manipulator from scratch,
 combining mechanical design, kinematics, motor control, and embedded systems. Members learn
 how to synchronize hardware and firmware for smooth actuation. The project’s modular nature
 makes it an ideal training ground for new members interested in robotics and automation.
-Chili Cookoff / Dancefloor Project
-This event-based project merges technical creativity with cultural engagement. For the Chili
-Cookoff, the team designs interactive electronic systems—such as LED displays, audio-reactive
-lighting, or a collapsible dancefloor—to demonstrate engineering in a social and entertaining
-context. It highlights how IEEE@UH blends innovation with community spirit, encouraging
-members to design projects that people can physically experience. Hopefully, a new Chili Cookoff
-Initiative will be launched every year.
-IEEE R5 Robotics Competition (Planned)
+Chili Cookoff Initiative | IEEE@UH Project & Workshop Committee
+Every March, IEEE@UH hosts the annual Chili Cook-off. This year, we want to begin a tradition
+of showcasing a technical initiative at the event. Every year, a new Chili Cook-off Initiative
+should merges technical creativity with cultural engagement and highlight how IEEE@UH blends
+innovation with community spirit, encouraging members to design projects that people can
+physically experience. In other words, we want to demonstrate engineering in a social and
+entertaining context.
+
+9 / 30
+
+This year, we want to design and assemble a touch-sensitive, music-reactive, modular
+dancefloor. Project Chairs are always responsible for deciding the project and project timeline.
+IEEE R5 Robotics Competition (Planned) | IEEE@UH Competitions Chair
 The IEEE Region 5 Robotics Competition will be introduced as a future collaborative initiative
 between IEEE@UH and Robotics@UH. The goal is to form a unified team to represent UH in
 regional IEEE events, fostering technical excellence and recognition at the professional level. This
 project will allow members to apply their skills to a standardized competition format and gain
-exposure beyond campus.
+exposure beyond campus. I recommend that the Competitions Chair begins recruiting
+promising members come Spring 2026, in preparation for the R5 Conference in Spring 2027. This
+effort will involve identifying promising members from individual and collaborative projects who
+demonstrate leadership, creativity, and resilience under deadlines. Additionally, I recommend the
+Competitions Chair builds a foundation and proposes a project timeline this year so that by next
+fall, the R5 Robotics Team is fully formed, trained, and competition-ready.
 
-8 / 22
-
-Continuous Projects
+Continuous Projects
 Continuous projects are recurring initiatives that keep IEEE@UH active between major competition
 cycles. They focus on sustained member engagement, technical outreach, and organizational growth
 rather than one-time builds. Each program has leads responsible for maintaining documentation,
@@ -285,24 +338,25 @@ Additionally, the Energy Techathon subteam will prepare an internal IEEE team to
 own hackathon, ensuring representation and outreach continuity.
 Ideally, the Energy Techathon will be a 1-to-3 day event where participants will learn of a proposed
 environmental/energy challenge and prototype a solution that applies electrical engineering.
-Circuit Speed Dating
+
+10 / 30
+
+Circuit Speed Dating
 Circuit Speed Dating is an interactive, fast-paced learning series where members rotate between
 short circuit-building challenges. It’s designed to help team members and participants alike to
 quickly build familiarity with components, analog circuits, and debugging under pressure, while
 making the learning process fun and social. Each event highlights a different circuit concept,
 encouraging team members to learn collaboratively and test their problem-solving skills in real
 time. This project has rapidly grown into one of IEEE@UH’s most engaging recurring activities,
-providing a consistent entry point for new members throughout the semester.
+providing a consistent entry point for new members throughout the semester. Future actionable
+items include:
 1. Encouraging existing CSD members to design PCBs for circuits they’ve already built or
 showcased. These designs will be compiled into a “Circuit Date Bank” for reuse for
 showcasing circuit demos in future events.
 2. Recruiting more CSD members, with more than one person taking ownership of one
 circuit. This distributes responsibility, encourages collaboration, and makes event-day
 facilitation smoother and more engaging.
-
-9 / 22
-
-3. Long-term, CSD will evolve beyond isolated demos; it will showcase how multiple simple
+3. Long-term, CSD will evolve beyond isolated demos; it will showcase how multiple simple
 circuits can be combined to create complex, expressive systems.
 
 3.2 Project Expectations
@@ -314,7 +368,7 @@ Individual project leads will draft their own flexible schedules, while collabor
 project leads will coordinate shared calendars with subteams to avoid overlap and missed deadlines.
 By the end of each semester, every project should have something tangible to present—whether
 that’s a functioning prototype, a recorded demo, or a documented postmortem explaining lessons
-learned.
+learned. For each project’s timeline, see Section 3.3.
 
 Onboarding
 Individual
@@ -323,11 +377,15 @@ members should first be directed to the fundamentals and project-specific video 
 described in Section 5.2. These videos are intended to accelerate ramp-up so members can reach a
 first working design or prototype as early in the semester as possible, leaving in-person meetings
 focused on debugging, refinement, and deeper questions rather than reteaching the basics.
-Collaborative and Continuous
-Every semester, IEEE@UH will conduct a structured onboarding process for all members involved
-in collaborative and continuous projects, aka members joining the Projects & Workshops
-Committee. The purpose of this process is to organize teams efficiently, set clear expectations, and
-align meeting schedules across all active projects.
+
+11 / 30
+
+Collaborative and Continuous
+I recommend that onboarding for all collaborative and continuous projects, including
+Robotics@UH projects, follow an onboarding process similar to the one for P&W Committee.
+Additionally, new members should be introduced to the project timeline and the project hero
+video (if applicable) or something adjacent (See Section 5.2).
+Recap of P&W Committee Onboarding Process:
 1.
 The onboarding process begins with a semester kickoff form distributed to both returning
 and new members. This form collects basic information such as preferred meeting times, project
@@ -340,12 +398,10 @@ interest in specific areas—such as robotics, embedded systems, or circuit desi
 toward projects that fit their goals and current skill levels. Returning members will have the
 opportunity to stay on their existing project teams or request reassignment if they want to explore
 something new.
-This system creates a clean onboarding pipeline where no one “falls through the cracks,” and where
-every member is attached to a tangible project from the start of the semester. It also helps balance
-10 / 22
-
-team sizes, reduce scheduling conflicts, and ensure that new projects don’t begin without sufficient
-staffing.
+Note:
+I recommend that all members starting a project, whether IEEE@UH or Robotics@UH, fill out the
+P&W Onboarding Form, so that we can set our P&W Meeting Schedule to align with almost
+everyone’s availability.
 
 Documentation
 Proper documentation ensures continuity between semesters and prevents knowledge loss.
@@ -361,14 +417,321 @@ Leadership is structured to balance autonomy with accountability.
 by Robotics@UH.
 • Individual Projects: Each project lead acts as a mentor for their group, guiding others
 through design, troubleshooting, and documentation.
-• Collaborative Projects: Team leads are responsible for maintaining forward momentum
-across subteams and have authority to make executive decisions if progress stalls. If no
-input is being provided, leads are expected to act rather than wait.
-• Continuous Projects: Leads function similarly but with an emphasis on sustainability—
-they carry out existing initiatives while proposing new ones for future semesters. They
-should ensure continuity, delegate tasks early, and mentor replacements to avoid burnout.
+• Collaborative and Continuous Projects: Team leads are responsible for maintaining
+forward momentum across subteams and have authority to make executive decisions if
+progress stalls. If no input is being provided, leads are expected to act rather than wait.
+For continuous projects, leads carry out existing initiatives while proposing new ones for
+12 / 30
 
-3.3 Events
+future semesters. They should ensure continuity, delegate tasks early, and mentor
+replacements to avoid burnout.
+I recommend that every team and subteam has a minimum of 2 leads to share the workload,
+meanwhile Project Chairs and the corresponding Robotics@UH Officers provide the timeline.
+
+A note about GirlIEEEs Chair:
+Please assess female students’ participation and retention rates in our projects and collaborate with
+us, the Project Chairs, improve them.
+
+3.3 Project Timelines
+Note: With these structured timelines and the additional P&W Committee Meetings set by the
+onboarding process, I am confident we can succeed!
+
+Individual Projects
+Week
+
+Micromouse
+
+Battlebots
+
+1
+
+Basics of
+Micromouse and
+rules
+
+Basics of Battlebots:
+strategies, rules. Also:
+Materials and Timeline.
+
+2
+
+Boost converters,
+Boost converters, motor
+motor drivers,
+drivers and drivetrain
+switches, and diodes assembly
+
+3
+
+Sensors: IMU,
+Brushless motors, weapon
+encoder reading, IR types and assembly +
+sensors
+Robot Design Session
+
+4
+
+PCB 1 – Schematic
+
+Robot Design Session
+
+5
+
+PCB 2 – routing,
+gnd plane, design
+review
+
+CAD Debugging Session
+and Marathon* +
+Continued Robot Design
+
+CAD Debugging
+Session
+
+CAD Debugging Session
+and Marathon* and STL
+Deadline. Assembly may
+begin.
+
+7
+
+PCB Fabrication
+Deadline 1
+
+Wireless Comms Protocol
+Info**, then Begin PCB
+and Order Electronic Parts,
+
+8
+
+Soldering: PCB
+Assembly
+
+Continue PCB. Leads will
+continue testing Wireless
+Comms
+
+Firmware: Encoder
+feedback & IMU
+
+PCB Fabrication Deadline,
+Continue mechanical
+
+6
+
+9
+
+Line Follower
+
+Drones
+
+13 / 30
+
+Correction
+
+assembly.
+
+Motor PID
+
+Robot Controller*** +
+Programming
+
+Path Planning
+Algorithms
+
+PCB Assembly +
+Programming
+
+Iterative Sessions
+
+Programming +
+Manufacturing Deadline 2
+
+13
+
+Competition
+Readiness Check
+
+Iterative Sessions
+
+14
+
+Final Iterations and
+Backup Firmware
+Check
+
+Competition Readiness
+Check
+
+15
+
+Project Showcase?
+
+Project Showcase?
+
+10
+11
+12
+
+Project Showcase? Project Showcase?
+
+Battlebots
+*Members should watch CAD tutorials and begin some of their Robot CAD. The meeting serves to
+aid members with their concerns on a case-by-case basis. Finally, the Battlebots leads are
+responsible for hosting a Discord VC Marathon session after the Battlebot meeting to ensure
+progress.
+**Now, Battlebot leads should focus their efforts on making sure wireless communication
+implemenation occurs smoothly.
+***Robot Controller session should coincide to be around the same time as the RC Car Workshop
+(See Section 4.5). Also, Battlebot leads are responsible for designing the same controller PCB and
+STL for everybody. Components should be completed and collected by then. Seek guidance from
+Project Chairs.
+
+Collaborative Projects (2025-2026)
+Week
+
+Chili Cook-off Initiative
+
+1
+
+Decide on a design and
+initialize git repo.
+Start part hunting and BOM
+
+2
+
+Delegate tasks and begin
+working on them. These
+tasks will include assembly
+(mechanical and wiring*)
+design, piezoelectric
+interface, firmware, and
+more as needed.
+
+3
+4
+5
+
+14 / 30
+
+Prototype Tile File
+Deadline
+
+Robotic Arm
+
+URC
+
+IEEE R5
+TBD
+
+6
+7
+8
+
+Prototype Tile Assembly
+Deadline
+
+9
+10
+11
+12
+13
+14
+15
+Chili Cook-off Initiative
+Will be updated as needed
+*wiring assembly as in “how will tiles encase the wiring”
+
+Continuous Projects
+Week
+
+Circuit Speed Dating
+
+Energy Techathon
+
+1
+
+Prepare circuits bank and PCBs
+
+Introduction to Energy Techathon
+
+2
+
+Prepare circuits bank and PCBs
+
+Start Drafting 3-Day Techathon Agenda
+
+3
+
+Order PCBs and Prepare for CSD
+
+Select Energy Challenges
+
+CSD
+
+Exercise: Prototype solutions to Energy
+Challenges
+
+Design PCBs and Prepare for CSD
+
+Write a guide to participation, using existing
+techathons as a reference.
+
+6
+
+CSD
+
+Prepare 1-2 Workshops*
+
+7
+
+… and so on.
+
+Prepare 1-2 Workshops*
+
+8
+
+Subject to change as needed
+
+Workshop 1
+
+4
+5
+
+9
+
+Robust documentation on Energy Techathon
+Scope
+
+10
+
+Proposal to Energy Coalition and commence
+Logistics with Events related Chairs
+
+11
+
+Exercise: Prototype solutions to Energy
+Challenges
+
+12
+
+Workshop 2
+
+13
+
+Subject to change as needed
+
+15 / 30
+
+14
+
+Homework Purge and Techathon
+
+15
+
+IEEE Project Showcase
+
+3.4 Project Events
 Competitions
 IEEE@UH participates in and prepares for multiple competitions across project categories. Each
 competition provides an external benchmark for the technical and organizational growth of our
@@ -380,36 +743,35 @@ role, providing electronics guidance, documentation templates, and cross-promoti
 opportunities where appropriate, but does not directly oversee the build or competition
 logistics.
 • IEEE Region 5 (R5) Robotics Competition:
-Set to begin in the next academic year, IEEE@UH will spend this year scouting talent and
-11 / 22
-
-preparing subteams for next year’s competition. This effort will involve identifying
-promising members from individual and collaborative projects who demonstrate leadership,
-creativity, and resilience under deadlines.
-The goal is to build a foundation this year so that by next fall, the R5 Robotics Team is fully
-formed, trained, and competition-ready.
+TBD By Competitions Chair.
 • IEEE Region 5 (R5) Circuits Competition:
 If IEEE@UH participates in the Region 5 Circuits Competition, members of the Circuit
 Speed Dating and Energy Techathon subteams will receive first consideration for team
 selection, in that order. These members’ experience aligns closely with the competition.
+• Energy Hackathon
+See Section 3.1 | Energy Hackathon.
 
 IEEE Project Showcase
 Starting next semester, IEEE@UH will host a Project Showcase every semester.
 The Showcase provides recurring milestones for members to demonstrate progress, celebrate
 creativity, and set goals for the following term.
 • Purpose: To promote project completion within a single semester and encourage iterative
-learning. A student could feasibly build a Micromouse in one semester and a Battlebot the
-next, gaining two major design experiences within their first year.
+learning. For example, a student could feasibly build a Micromouse in one semester and a
+Battlebot the next, gaining two major design experiences within their first year.
 • Format:
-• Individual Projects (Micromouse, Battlebots) compete in short trials or demos.
-• Collaborative Projects (Dancefloor, URC, Robot Arm) present large builds and
-explain development progress.
+• Individual Projects (Micromouse, Line Follower, Drones, Battlebots) compete in
+short trials or demos.
+• Collaborative Projects (Chili Cook-off Initiative, URC, Robot Arm) present large
+builds and explain development progress.
 • Continuous Projects (Energy Techathon, Circuit Speed Dating) exhibit
 documentation, PCBs, breadboards, and ongoing initiatives.
-• Recording & Continuity: All project presentations will be recorded and archived so future
+
+16 / 30
+
+• Recording & Continuity: All project presentations will be recorded and archived so future
 members can learn from prior work rather than start from scratch.
 
-Note on Personal Projects not outlined above
+Note on Personal Projects
 For individual projects that are personal builds—such as small robots or custom devices—I do not
 believe in mandatory project meetings. These are passion-driven endeavors and should stay
 flexible.
@@ -419,7 +781,7 @@ meetings. These meetings are member-exclusive spaces where individuals can:
 • Ask for feedback, design help, or troubleshooting support.
 • Learn from others working on similar challenges.
 
-12 / 22
+17 / 30
 
 4. Workshops Overview
 4.1 Purpose of Workshops in IEEE@UH
@@ -454,7 +816,7 @@ live troubleshooting, peer feedback, or physical tools are required.
 The long-term goal is to build a hybrid learning model: members learn the basics
 asynchronously through videos, then attend workshops to apply those skills in real time.
 
-13 / 22
+18 / 30
 
 Collaboration Criteria for Joint Workshops
 IEEE@UH encourages collaboration when it strengthens content or builds inter-org relationships,
@@ -469,31 +831,11 @@ the partnership genuinely adds learning value. Workshops led with other orgs sho
 categories: “hosted with” or “collaborated on” (see Section 2). Hosted workshops expand audience
 reach; collaborative ones develop shared technical content. In both cases, coordination and
 documentation standards remain consistent with IEEE@UH’s internal expectations.
+Another note about GirlIEEEs Chair:
+Please reach out to SWE, Phi Sigma Rho, and similar engineering women’s empowerment orgs to
+invite them to co-host workshops or project sessions with IEEE@UH.
 
-4.3 Summary of P&W Committee Roles
-The Projects & Workshops Committee manages planning, documentation, and on-site support for
-all workshops.
-• Trial Runs: Committee members attend rehearsal sessions to learn the material and practice
-troubleshooting.
-• Budgeting: They maintain the BOM/Budget/Reimbursement Request spreadsheet,
-ensuring supplies are tracked and funding is transparent.
-• Communication: All coordination happens casually in #pw-chat on Discord—if you start a
-task, just drop a quick message.
-• Documentation: All workshop materials will be uploaded to a central GitHub repository
-after I initialize the folder structure. This ensures future officers and members can easily
-find, reuse, and improve past resources.
-• Initiative: Members may propose their own workshops using committee resources; the
-Project Chair helps polish slides, prepare materials, and assist during delivery.
-To avoid fatigue, the committee emphasizes quality over quantity—a few well-run
-workshops per month are better than a cluttered schedule.
-• Members may also assist with existing workshops—helping refine slides, update
-materials, or improve overall quality—provided they keep an active communication
-channel open with the project co-chairs. Authorization is quick and flexible; just ask
-before starting. Terms of approval are handled on a case-by-case basis.
-
-14 / 22
-
-4.4 Fall 2025 Workshops
+4.4 Fall 2025 Workshops
 Intro to PCBs | Sept 26
 Topics: Reading and writing schematics (+ breadboard basics), Schematics & PCBs in EasyEDA
 and KiCad, Symbols and footprints in KiCad, Exporting Gerber files
@@ -513,8 +855,9 @@ Future add-ons: KiCost, Git for KiCad, FreeCAD integration, panelization, ngspic
 Intro to Git & Linux | Oct 14
 Topics: GNU/Linux overview, Git basics, Git vs GitHub, environment setup, SSH into server, CLI
 practice.
+19 / 30
 
-Circuit Speed Dating | Oct 15, Oct 29, Nov 12
+Circuit Speed Dating | Oct 15, Oct 29, Nov 12
 See Continuous Project > Circuit Speed Dating under Section 3.1 | Project Categories.
 
 Soldering Workshop w/ AIAA | Nov 18
@@ -529,9 +872,7 @@ Topics: (Pending)
 Topics: Understanding slicing parameters, infill density, layer height, and print tolerances; setting
 up and maintaining 3D printers; optimizing prints for mechanical or aesthetic performance.
 
-15 / 22
-
-Soldering Workshop | Feb
+Soldering Workshop | Feb
 Topics: Soldering header pins to breakout boards, soldering connections on different types of
 perforated boards, desoldering pins, soldering wires, crimping wire connectors.
 
@@ -550,12 +891,14 @@ Topics: Introduction to circuit and field simulation tools (ngspice, FEMM, MATLA
 and parameter configuration; simulating electronic and electromagnetic systems; interpreting
 simulation data for practical design improvements.
 
-Workshop Wishlist
+20 / 30
+
+Workshop Wishlist
 HAM Radio w/ AIAA
-I’d like to collaborate with AIAA on one of their HAM Radio occurances sothat introduces
-IEEE@UH members to RF and wireless engineering. After I go to one HAM Radio or two, then I
-can brainstorm and discuss with them about a one-time HAM Radio occurance that IEEE can collab
-or host with (maybe we could put a little twist on the event!).
+I’d like to co-host with AIAA on one of their HAM Radio occurances that introduces IEEE@UH
+members to RF and wireless engineering. After I go to one HAM Radio or two, then I can
+brainstorm and discuss with them about a one-time HAM Radio occurance that IEEE can collab or
+host with (maybe we could put a little twist on the event!).
 This initiative would expand our curriculum into high-frequency domains and encourage students to
 pursue amateur radio licensing and RF project development.
 
@@ -569,7 +912,14 @@ workshop materials, simplified circuits, and guided activities that align with K
 They will also prepare documentation, supply checklists, and provide program assistants (IEEE
 members trained to facilitate interactive demos safely and effectively).
 
-16 / 22
+Co-host Instances of Project Workshops Across Campus
+For example, I know SHPE did a musical keyboard session this semester. We could ask to co-host
+an instance of these Project Workshops. That way, we expand our reach.
+
+Certification Trainings
+Soldering, MATLAB (with ASME?), etc.
+
+21 / 30
 
 5. Educational Resources & Outreach
 IEEE@UH will continue posting workshop photos and project updates across social platforms to
@@ -592,27 +942,28 @@ This structure will make the IEEE@UH website a living portfolio instead of a sta
 it will help preserve continuity between generations of project teams. That is, instead of replacing
 old content with each update, the P&W page should archive progress over time—using a toggle or
 timeline-style menu to showcase each project’s development across semesters and years.
+The following pages are a recommended UX flow (mocked on moqups.com).
 
-Video Content
-The video learning pipeline is central to that philosophy. Short, modular tutorials and “inspiration
-videos” will walk members through foundational topics like PCB design, Git workflow, or
-embedded debugging. These recordings complement hands-on workshops and ensure that members
-who can’t attend in person still have access to the material. By combining asynchronous and inperson learning, we make engineering education more flexible and scalable. Each video will be
-archived alongside written documentation so that project leads can easily assign them as
-prerequisites or refreshers before builds begin.
+22 / 30
+
+23 / 30
+
+Video Content
+By combining asynchronous and in-person learning, we make engineering education more flexible
+and scalable. Each video will be archived alongside written documentation so that project leads can
+easily assign them as prerequisites or refreshers before builds begin.
 To encourage engagement, we plan to implement small incentives—quizzes, sticker rewards, and
 recognition on the IEEE website or social media. While minor, these systems reinforce consistent
 participation and create positive feedback loops for members who show initiative. The goal isn’t
 gamification for its own sake, but to celebrate curiosity and reward self-driven learning.
 
-17 / 22
-
-Workshop Recordings
+Workshop Recordings
 These are uncut or lightly edited recordings of live workshops hosted by IEEE@UH. They
 document student questions and live debugging. Workshop recordings also help members who
 missed sessions catch up and give future leads a reference for how to host their own workshops.
+24 / 30
 
-Formal Tutorials
+Formal Tutorials
 Short, polished instructional videos that teach specific technical tools or workflows. Topics include
 (but are not limited to:) EasyEDA schematic design, Arduino IDE setup, PCB manufacturing
 workflow, component sourcing, and basic embedded code structure. Unlike workshops, these
@@ -644,13 +995,14 @@ immersive snapshots of what it feels like to be part of that project.
 The Circuit Speed Dating video might be a first-person vlog following a new member through the
 event, showing what it’s like to rotate through tables and build circuits. The Micromouse video
 could follow a team from concept to competition, showing the maze trials and debugging process.
-18 / 22
-
-The Battlebot video could show prototypes evolving, testing footage, and commentary from the
+The Battlebot video could show prototypes evolving, testing footage, and commentary from the
 builders themselves.
 Each project should choose the format that best captures its personality—whether that’s
 cinematic, tutorial-based, or documentary-style—and update it every couple of years. This gives
-IEEE@UH a timeless visual library that future members can watch to instantly understand our
+
+25 / 30
+
+IEEE@UH a timeless visual library that future members can watch to instantly understand our
 culture, workflow, and sense of play.
 
 Inspo Posts (“Build With Me” Videos)
@@ -673,7 +1025,7 @@ help us refine and expand this style. Ideally, we’ll create a design toolkit�
 and guidelines—so future committees can continue the tradition without losing the look and feel we
 establish now.
 
-19 / 22
+26 / 30
 
 6. Reflection & Lessons Learned
 The Fall 2025 semester marked a major step forward for IEEE@UH’s Projects & Workshops
@@ -695,18 +1047,20 @@ PCB, a blinking LED, or a GitHub repo with their name on it, visible progress di
 into motivation. This insight will guide how we plan next semester’s workshop cadence and project
 documentation efforts.
 
-20 / 22
+27 / 30
 
-7. Improvements & Future Vision
+7. Recommendations
 The coming semester will focus on integration, sustainability, and expansion. Each project and
 workshop should build upon the previous one, forming a continuous educational arc from
-recruitment to mastery.
+recruitment to mastery. Additionally, emphasis will be placed on fostering a more cohesive identity
+and communication channel between IEEE@UH and Robotics@UH, ensuring both organizations
+operate in sync while maintaining distinct strengths.
 
 Integration of Workshops into the Project Pipeline
 Workshops will directly support ongoing projects instead of existing as stand-alone events. For
 example, a KiCad session might coincide with Micromouse PCB design week, or Git and Linux
-sessions prepare them for collaborative documentation. By linking sessions to real builds, we
-reinforce both technical learning and project completion rates.
+sessions may prepare members for collaborative documentation. By linking sessions to real builds,
+we reinforce both technical learning and project completion rates.
 
 Expanding Project Domains
 IEEE@UH is evolving beyond classical circuits. Future initiatives will dive into RF and wireless
@@ -715,45 +1069,68 @@ These emerging areas align with student curiosity and future industry demand. Th
 IEEE@UH a space where students can explore advanced topics while staying grounded in hands-on
 prototyping.
 
-Operational Improvements and Infrastructure
-A major operational goal is to build a semi-automated inventory tracker in Google Sheets. This
-system will log quantities of components, tools, and materials—allowing us to quickly check stock
-before making BOMs, budget requests, or reimbursements.
-Additionally, the IEEE Lounge will undergo organization efforts to make it more functional and
-inviting. The existing Lounge Wishlist spreadsheet outlines furniture and storage upgrades. A
-decluttered workspace will make it easier to store materials, conduct workshops, and maintain a
-consistent project environment.
+Cross-Org Cohesion and Communication
+A more cohesive structure between IEEE@UH and Robotics@UH will reduce redundancy, improve
+scheduling, and present both as two complementary pillars of UH’s engineering community. I will
+personally begin attending Robotics@UH meetings—even if just to listen or study—to stay
+informed on project timelines and progress. Maintaining visibility and open communication will
+ensure that both orgs can align goals, share resources, and celebrate collective success.
 
-21 / 22
+Infrastructure Chair and Branch
+To sustain long-term efficiency, I recommend establishing an Infrastructure Chair position and a
+dedicated Infrastructure Branch. This branch would attract members with systems engineering
+or CIS backgrounds to design and automate IEEE@UH’s internal workflows, including but not
+limited to: inventory management, documentation pipelines, website integration, membership and
+attendance tracking, Discord organization, and calendar automation.
+As of November 2025, a major operational goal is to build a semi-automated inventory tracker
+with Google Sheets. This system will log component and material quantities, allowing us to quickly
+check stock before submitting BOMs, budgets, or reimbursements. Furthermore, since he is already
+working on a more sophisticated inventory tracker for IEEE@UH of his own accord, I nominate
+Sergio Hernandez for the position of Infrastructure Chair.
+As a whole, the IEEE Lounge should undergo organization efforts to make it more functional and
+inviting. The existing Lounge Wishlist spreadsheet outlines furniture and storage upgrades. A
+28 / 30
+
+decluttered, modular workspace will make it easier to store materials, host workshops, and maintain
+a consistent project environment.
+Future goals may include creating an IEEE@UH web app for member RSVPs and event
+calendars, or at minimum, streamlining access to .ics calendar links and Discord announcements.
+This branch would serve as the technical backbone of operations, bridging the gap between
+engineering and administration.
+
+29 / 30
 
 8. Closing Remarks and Immediate Next Steps
 The IEEE@UH Projects & Workshops Committee exists to make engineering doable—turning
 interest into initiative and initiative into real hardware. Our goal is a self-sustaining ecosystem of
 learning, building, and mentorship centered on electrical and embedded design.
-Starting Spring 2026, weekly P&W meetings will serve as our home base—casual sessions where
-members work on projects, ask for help, and share progress. These meetings, scheduled through
-onboarding, keep our community active, collaborative, and creative.
+Starting Spring 2026, weekly P&W meetings will serve as our home base. These are casual
+sessions where members work on projects, ask for help, and share progress. These meetings,
+scheduled through onboarding, keep our community active, collaborative, and creative.
 Our structure is simple but effective: the Workshop Team runs sessions and manages resources, the
 Project Teams lead builds and documentation, and Operations & Logistics keeps our lounge and
 materials organized. Together, they form a pipeline from idea to prototype to showcase.
 IEEE@UH’s projects complement Robotics@UH. Robotics emphasizes interdisciplinary systems
-and competitions, while IEEE@UH focuses on the electrical foundations that make them work—
-circuits, components, and embedded systems. Both thrive through shared labs, mentorship, and a
-common goal of advancing UH’s engineering community.
+and competitions, while IEEE@UH focuses on the electrical foundations—circuits, components,
+and embedded systems. Both thrive through shared labs, mentorship, and a common goal of
+advancing UH’s engineering community.
 Workshops connect theory to practice through accessibility, relevance, and documentation. They
 ensure every skill ties into our projects and that knowledge stays reusable for future members.
-Educational outreach and video resources extend that mission—teaching the next generation while
+Educational outreach and video resources extend that mission by teaching the next generation while
 reinforcing IEEE@UH’s culture of creativity and technical excellence.
 Through structured meetings, open workshops, and collaborative projects, we’re building a lasting
 community of engineers who learn, teach, and bring ideas to life.
 
 Immediate Next Steps
-1. Launch the inventory tracker and standardize BOM templates. (P&W Committee)
+1. Launch the inventory tracker and standardize BOM templates. (P&W Committee) Later
+merge and debrief the Infrastructure Branch (if it gets formed).
 2. Preparations for CSD, Micromouse (and any other project that feels ready to opt in, both
-IEEE or Robotics) Hero Videos (Section 5.2) (Marketting Committee?)
+IEEE or Robotics) Hero Videos (Section 5.2) (Marketing Committee)
 3. Conduct recruitment for CSD, ET, and CCO Teams, as well as establish a strong foundation
 for ET and CCO.
+4. Onboard returning P&W Committee members.
+5. Define Project Timelines for IEEE@UH and Robotics@UH.
 
-22 / 22
+30 / 30
 
 
